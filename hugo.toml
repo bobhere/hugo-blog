@@ -1,0 +1,56 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的博客'
+theme = 'PaperMod'
+
+[params]
+  # 主题模式
+  defaultTheme = "auto" # auto, light, dark
+  disableThemeToggle = false
+  
+  # 首页信息
+  homeInfoParams.Title = "欢迎来到我的博客"
+  homeInfoParams.Content = "这里是我分享想法和经验的地方"
+  
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:your-email@example.com"
+  
+  # 搜索功能
+  fuseOpts.isCaseSensitive = false
+  fuseOpts.shouldSort = true
+  fuseOpts.location = 0
+  fuseOpts.distance = 1000
+  fuseOpts.threshold = 0.4
+  fuseOpts.minMatchCharLength = 0
+  fuseOpts.keys = ["title", "permalink", "summary", "content"]
+
+# 菜单配置
+[[menu.main]]
+  identifier = "home"
+  name = "首页"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "文章"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "search"
+  name = "搜索"
+  url = "/search/"
+  weight = 40
