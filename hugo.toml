@@ -8,19 +8,6 @@ theme = 'PaperMod'
   defaultTheme = "auto" # auto, light, dark
   disableThemeToggle = false
   
-  # 首页信息
-  homeInfoParams.Title = "欢迎来到我的博客"
-  homeInfoParams.Content = "这里是我分享想法和经验的地方"
-  
-  # 社交链接
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/"
-  
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:your-email@example.com"
-  
   # 搜索功能
   fuseOpts.isCaseSensitive = false
   fuseOpts.shouldSort = true
