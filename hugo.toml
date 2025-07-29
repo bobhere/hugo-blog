@@ -1,4 +1,4 @@
-baseURL = 'baseURL = 'https://hugo-blog-three-xi.vercel.app'
+baseURL = 'baseURL = 'hugo-blog-three-xi.vercel.app'
 languageCode = 'zh-cn'
 title = 'Bob的博客'
 theme = 'PaperMod'
