@@ -2,6 +2,8 @@ baseURL = 'https://hugo-blog-three-xi.vercel.app/'
 languageCode = 'zh-cn'
 title = 'Bob的博客'
 theme = 'PaperMod'
+timeZone = 'Asia/Shanghai'
+buildFuture = true
 
 [params]
   # 主题模式
