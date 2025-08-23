@@ -1,19 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>复购 on Bob的博客</title>
-    <link>http://localhost:1313/tags/%E5%A4%8D%E8%B4%AD/</link>
-    <description>Recent content in 复购 on Bob的博客</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sat, 23 Aug 2025 10:42:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%A4%8D%E8%B4%AD/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>从0到月入十万，疗愈师必须踩过的 三条赚钱捷径</title>
-      <link>http://localhost:1313/posts/from-zero-to-100k-three-shortcuts/</link>
-      <pubDate>Sat, 23 Aug 2025 10:42:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/from-zero-to-100k-three-shortcuts/</guid>
-      <description>&lt;p&gt;很多疗愈师做不起来，不是没能力，而是走了“慢路”。从0到月入十万，有三条真正的捷径：&lt;strong&gt;拿结果、做乘法、抓复购&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;一、捷径一：先拿“一个结果”，再谈规模&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;选一个可复制的结果（例：7天睡眠改善）&lt;/li&gt;&#xA;&lt;li&gt;打磨出“起-承-转-合”的标准流程&lt;/li&gt;&#xA;&lt;li&gt;做10个小样本，复盘出统一证据&lt;br&gt;&#xA;&lt;strong&gt;你的第一桶金，来自一个被市场验证的微小结果。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;二、捷径二：做乘法，而不是做加法&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;模块化：把服务拆为“评估-练习-反馈-复盘”&lt;/li&gt;&#xA;&lt;li&gt;标准化：每一步都有模板、脚本、SOP&lt;/li&gt;&#xA;&lt;li&gt;工具化：音频、清单、作业表、危机处理SOP&lt;br&gt;&#xA;&lt;strong&gt;乘法是让“你+工具”同时工作，效率×复用×质量都提升。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;三、捷径三：抓住复购与转介绍&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;会员制：分层权益（音频库/直播/1v1券）&lt;/li&gt;&#xA;&lt;li&gt;复购路径：短营→季度计划→年度陪伴&lt;/li&gt;&#xA;&lt;li&gt;转介绍：目标达成即送“家人体验名额”&lt;br&gt;&#xA;&lt;strong&gt;疗愈赛道的利润，不在第一次成交，而在“生命周期价值”。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;四、加速器：合作与借势&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;与健身/瑜伽/睡眠门店联动，嵌入你的服务&lt;/li&gt;&#xA;&lt;li&gt;与医生/咨询师建立相互转介机制&lt;/li&gt;&#xA;&lt;li&gt;用“线下密集日+线上陪伴”做双轮驱动&lt;br&gt;&#xA;&lt;strong&gt;当你搭上别人的流量与信任，冷启动会快10倍。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;五、最小可行商业闭环&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;每周固定直播（引流）&lt;/li&gt;&#xA;&lt;li&gt;次日小营体验（验证）&lt;/li&gt;&#xA;&lt;li&gt;第三天结构化转化（成交）&lt;/li&gt;&#xA;&lt;li&gt;周内会员与陪伴（复购）&lt;br&gt;&#xA;&lt;strong&gt;节奏固定，才会稳定产出。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;结论：别追求“大而全”。&lt;strong&gt;用一个小结果打开局面，用乘法把它复制，用复购把钱赚稳。&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>复购 on Bob的博客</title><link>https://hugo-blog-three-xi.vercel.app/tags/%E5%A4%8D%E8%B4%AD/</link><description>Recent content in 复购 on Bob的博客</description><generator>Hugo -- 0.148.2</generator><language>zh-cn</language><lastBuildDate>Sat, 23 Aug 2025 10:42:00 +0800</lastBuildDate><atom:link href="https://hugo-blog-three-xi.vercel.app/tags/%E5%A4%8D%E8%B4%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>从0到月入十万，疗愈师必须踩过的 三条赚钱捷径</title><link>https://hugo-blog-three-xi.vercel.app/posts/from-zero-to-100k-three-shortcuts/</link><pubDate>Sat, 23 Aug 2025 10:42:00 +0800</pubDate><guid>https://hugo-blog-three-xi.vercel.app/posts/from-zero-to-100k-three-shortcuts/</guid><description>&lt;p>很多疗愈师做不起来，不是没能力，而是走了“慢路”。从0到月入十万，有三条真正的捷径：&lt;strong>拿结果、做乘法、抓复购&lt;/strong>。&lt;/p>
+&lt;p>一、捷径一：先拿“一个结果”，再谈规模&lt;/p>
+&lt;ul>
+&lt;li>选一个可复制的结果（例：7天睡眠改善）&lt;/li>
+&lt;li>打磨出“起-承-转-合”的标准流程&lt;/li>
+&lt;li>做10个小样本，复盘出统一证据&lt;br>
+&lt;strong>你的第一桶金，来自一个被市场验证的微小结果。&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>二、捷径二：做乘法，而不是做加法&lt;/p>
+&lt;ul>
+&lt;li>模块化：把服务拆为“评估-练习-反馈-复盘”&lt;/li>
+&lt;li>标准化：每一步都有模板、脚本、SOP&lt;/li>
+&lt;li>工具化：音频、清单、作业表、危机处理SOP&lt;br>
+&lt;strong>乘法是让“你+工具”同时工作，效率×复用×质量都提升。&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>三、捷径三：抓住复购与转介绍&lt;/p>
+&lt;ul>
+&lt;li>会员制：分层权益（音频库/直播/1v1券）&lt;/li>
+&lt;li>复购路径：短营→季度计划→年度陪伴&lt;/li>
+&lt;li>转介绍：目标达成即送“家人体验名额”&lt;br>
+&lt;strong>疗愈赛道的利润，不在第一次成交，而在“生命周期价值”。&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>四、加速器：合作与借势&lt;/p>
+&lt;ul>
+&lt;li>与健身/瑜伽/睡眠门店联动，嵌入你的服务&lt;/li>
+&lt;li>与医生/咨询师建立相互转介机制&lt;/li>
+&lt;li>用“线下密集日+线上陪伴”做双轮驱动&lt;br>
+&lt;strong>当你搭上别人的流量与信任，冷启动会快10倍。&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>五、最小可行商业闭环&lt;/p>
+&lt;ul>
+&lt;li>每周固定直播（引流）&lt;/li>
+&lt;li>次日小营体验（验证）&lt;/li>
+&lt;li>第三天结构化转化（成交）&lt;/li>
+&lt;li>周内会员与陪伴（复购）&lt;br>
+&lt;strong>节奏固定，才会稳定产出。&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>结论：别追求“大而全”。&lt;strong>用一个小结果打开局面，用乘法把它复制，用复购把钱赚稳。&lt;/strong>&lt;/p></description></item></channel></rss>
