@@ -5,10 +5,31 @@ theme = 'PaperMod'
 timeZone = 'Asia/Shanghai'
 buildFuture = true
 
+# 分页设置
+[pagination]
+  pagerSize = 5
+
 [params]
   # 主题模式
   defaultTheme = "auto" # auto, light, dark
   disableThemeToggle = false
+  
+  # 首页设置
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
   
   # 搜索功能
   fuseOpts.isCaseSensitive = false
