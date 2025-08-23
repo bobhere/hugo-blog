@@ -1,0 +1,16 @@
+{
+  "name": "hugo-blog",
+  "version": "1.0.0",
+  "description": "Bob的个人博客，基于Hugo + PaperMod主题",
+  "scripts": {
+    "build": "hugo --gc --minify --buildFuture",
+    "dev": "hugo server -D",
+    "clean": "rm -rf public resources"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobhere/hugo-blog.git"
+  },
+  "author": "Bob",
+  "license": "MIT"
+}

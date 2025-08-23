@@ -1,4 +1,9 @@
 {
-  "buildCommand": "hugo --gc --minify --buildFuture",
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.148.2"
+    }
+  },
+  "buildCommand": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.148.2/hugo_extended_0.148.2_linux-amd64.tar.gz && tar -xzf hugo_extended_0.148.2_linux-amd64.tar.gz && chmod +x hugo && ./hugo --gc --minify --buildFuture",
   "outputDirectory": "public"
 }
